@@ -1,0 +1,11 @@
+Distretto,Quartiere,Numero_Viaggi,Corsa_Media_Dollari,Cluster_Livello,Descrizione_Cluster
+Manhattan,Midtown Center,164142,15.15,2,Basso
+Manhattan,Upper East Side South,159897,12.23,2,Basso
+Manhattan,Upper East Side North,151748,12.86,2,Basso
+Queens,JFK Airport,137448,62.29,0,Medio
+Manhattan,Times Sq/Theatre District,120061,17.61,1,Alto
+Manhattan,Penn Station/Madison Sq West,115435,15.5,1,Alto
+Manhattan,Midtown East,114449,14.79,1,Alto
+Manhattan,Lincoln Square East,107316,13.78,1,Alto
+Manhattan,Upper West Side South,93330,13.6,1,Alto
+Manhattan,Midtown North,92849,15.45,1,Alto
